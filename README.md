@@ -4,7 +4,7 @@
 
 👩🏽‍🎓 I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School and I'm a Data for Good Scholarship holder. 
 
-🔍 💻 I have over six years of professional experience conducting data-driven research and policy analysis. I worked with several NGOs conducting data analysis and research on violence and impunity in Mexico. 
+🔍 I have over six years of professional experience conducting data-driven research and policy analysis. I worked with several NGOs conducting data analysis and research on violence and impunity in Mexico. 
 
 🌱 I am also the co-founder of Hijas de Internet (Daughters of the Internet), a digital platform advocating for more inclusive digital spaces. 
 
