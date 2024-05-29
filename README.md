@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👩🏽‍💻 I'm Monserrat Lopez, a Mexican economist and Data Science learner. My goal is to use data and technology to find innovative solutions to tackle the biggest challenges faced by society today. 
+👩🏽‍💻 I'm Monserrat Lopez, a Mexican economist and Data Science learner. My goal is to use data and technology to tackle the biggest challenges faced by society today. 
 
 👩🏽‍🎓 I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School and I'm a Data for Good Scholarship holder. 
 
