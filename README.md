@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-👩🏽‍💻 I'm Monserrat Lopez, a Mexican economist and Data Science learner. My goal is to use data and technology to tackle the biggest challenges faced by society today. 
+👩🏽‍💻 I'm Monserrat Lopez, a Mexican economist and Data Science learner. My goal is to use data and technology for social good.
 
 👩🏽‍🎓 I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School and I'm a Data for Good Scholarship holder. 
 
-🔍 I have over six years of professional experience in data-driven research and policy analysis, working with NGOs on violence and impunity in Mexico. 
+🔍 I have over six years of professional experience in data-driven research and policy analysis. Currently I'm a Student Assistant at the Weizenbaum Institut in the research group Digital Economy, Internet Ecosystem & Internet Policy.
 
 🌱 I am also the co-founder of Hijas de Internet (Daughters of the Internet), a digital platform advocating for more inclusive digital spaces. 
 
