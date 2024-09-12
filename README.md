@@ -1,6 +1,6 @@
 ## Hola Welt 👋 🌍
 
-👩🏽‍💻 I'm Monserrat Lopez, a Mexican economist and Data Science learner.  
+👩🏽‍💻 I'm a Mexican economist and Data Science learner.  
 
 👩🏽‍🎓 I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School and I'm a Data for Good Scholarship holder. 
 
