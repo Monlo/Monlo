@@ -1,8 +1,8 @@
 ## Hola Welt 👋 🌍
 
-👩🏽‍💻 I'm a Mexican economist and Data Science learner.  
+I'm a Mexican economist and Data Science learner 👩🏽‍💻 
 
-👩🏽‍🎓 I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School and I'm a Data for Good Scholarship holder. 
+I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School and I'm a Data for Good Scholarship holder 👩🏽‍🎓 
 
 🔍 I have over six years of professional experience in data-driven research and policy analysis. Currently I'm a Student Assistant at the Weizenbaum Institut in the research group Digital Economy, Internet Ecosystem & Internet Policy.
 
