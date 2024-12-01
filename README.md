@@ -10,6 +10,6 @@ I'm currently pursuing a Master's in Data Science for Public Policy at the Herti
 
 **🛠️ Skills:**
 - Proficient in Python and R 
-- Strong in policy analysis and research 
+- Strong skills in policy analysis and research 
 - Experienced in communicating complex data insights 
 - Skilled in project management (Agile, Notion) 
