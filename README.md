@@ -16,4 +16,4 @@
 
 **What I’m Working On**
 - 📚 Thesis: Exploring the environmental impact of AI, supervised by Professor Lynn Kaack.
-- 🤖 Data Science Projects: Developing a Retrieval-Augmented Generation (RAG) model to analyze public feedback on the EU AI Act.
+- 🤖 Data Science Project: Developing a Retrieval-Augmented Generation (RAG) model to analyze public feedback on the EU AI Act.
