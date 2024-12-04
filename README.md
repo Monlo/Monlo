@@ -6,7 +6,7 @@
 
 🔍 I have over six years of professional experience in data-driven research and policy analysis, currently I'm working as Student Assistant at the Weizenbaum Institute, where I contribute to research on the digital economy, AI governance, and Internet policy.
 
-🌱 Beyond academia, I co-founded [Hijas de Internet (Daughters of the Internet)]([https://your-link-here.com](https://www.linkedin.com/company/hijas-de-internet/)), a podcast and digital platform dedicated to advocating for more inclusive, ethical, and accessible digital spaces. 
+🌱 Beyond academia, I co-founded Hijas de Internet (Daughters of the Internet), a podcast and digital platform dedicated to advocating for more inclusive, ethical, and accessible digital spaces. 
 
 **🛠️ Skills:**
 - Proficient in Python and R 
