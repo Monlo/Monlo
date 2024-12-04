@@ -16,6 +16,6 @@ I'm currently pursuing a Master's in Data Science for Public Policy at the Herti
 - Experienced in communicating complex data insights 
 - Skilled in project management (Agile, Notion) 
 
-** What I’m Working On **
+**What I’m Working On**
 📚 Thesis: Exploring the environmental impact of AI, supervised by Professor Lynn Kaack.
 🤖 Data Science Projects: Developing a Retrieval-Augmented Generation (RAG) model to analyze public feedback on the EU AI Act.
