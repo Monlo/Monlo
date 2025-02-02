@@ -4,7 +4,7 @@
 
 👩🏽‍🎓 I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School in Berlin 
 
-🔍 I have over six years of professional experience doing research and policy analysis. Currently I'm a Student Assistant at the Weizenbaum Institute, where in the Digital Economy, Internet Ecosystem, and Internet Policy research group. 
+🔍 I have over six years of professional experience doing research and policy analysis. Currently I'm a Student Assistant at the Weizenbaum Institute, in the Digital Economy, Internet Ecosystem, and Internet Policy research group. 
 
 🌱 I co-founded Hijas de Internet (Daughters of the Internet), a digital platform to advocating for more inclusive, ethical, and accessible digital spaces. 
 
