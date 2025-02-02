@@ -1,6 +1,6 @@
 ## Hola Welt 👋 🌍
 
-👩🏽‍💻 I’m a Mexican economist and data scientist with over six years of experience in data-driven research and policy analysis. My interests lie at the intersection of technology, data, and policy, in particular in the responsible and sustainable use of AI.
+👩🏽‍💻 I’m a Mexican economist and data scientist with over six years of experience in data-driven research and policy analysis. My interests lie at the intersection of technology, data, policy, and the responsible and sustainable use of AI.
 
 👩🏽‍🎓 I'm currently pursuing a Master's in Data Science for Public Policy at the Hertie School in Berlin 
 
