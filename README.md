@@ -2,7 +2,7 @@
 
 👩🏽‍💻 I’m a Mexican economist and data scientist with over six years of experience in data-driven research and policy analysis. My interests lie at the intersection of technology, data, policy, and the responsible and sustainable use of AI.
 
-👩🏽‍🎓 I also hold a Master's in Data Science for Public Policy at the Hertie School in Berlin, you can check my portfolio [here](https://monlo.github.io/mlp-portfolio/).  
+👩🏽‍🎓 I also hold a Master's in Data Science for Public Policy at the Hertie School in Berlin.  
 
 🔍 I have over six years of experience doing research and policy analysis. Currently I'm a Student Assistant at the Weizenbaum Institute, in the Digital Economy, Internet Ecosystem, and Internet Policy research group. 
 
