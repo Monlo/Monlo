@@ -14,4 +14,4 @@
 - **Project Management:** Agile methods, task tracking in Notion and Jira, and collaborative workflows  
 - **Communication:** Academic writing, report drafting, and translating technical findings for broad audiences  
 
-📚 **Currently learning:** Advanced SQL, D3.js for data visualization, and AWS
+📚 **Currently learning:** SQL, D3, and AWS
