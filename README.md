@@ -1,6 +1,6 @@
 ## Hola Welt 👋 🌍
 
-👩🏽‍💻 I’m a Mexican economist and data scientist with over six years of experience in data-driven research and policy analysis. My interests lie at the intersection of technology, data, policy, and the responsible and sustainable use of AI.
+👩🏽‍💻 I’m a Mexican economist and data scientist with over six years of experience doing data-driven research and policy analysis. My interests lie at the intersection of technology, data, policy, and the responsible and sustainable use of AI.
 
 👩🏽‍🎓 I hold a [Master's in Data Science for Public Policy](https://www.hertie-school.org/en/cv-books/cv-book-2025-detail/student/lopez-perez) from the Hertie School in Berlin. During my Master’s, I worked as a student assistant at the [Weizenbaum Institute](https://www.weizenbaum-institut.de/en/portrait/p/monserrat-lopez-perez/) in the Digital Economy, Internet Ecosystem, and Internet Policy research group.  
 
