@@ -14,7 +14,6 @@ I'm currently working as a data and policy consultant, developing data-driven re
 **Data Analysis:** Cleaning, visualization, storytelling with data, reproducible research workflows  
 **Policy Research:** Quantitative and qualitative analysis, indicator design, data-driven policy evaluation  
 **Project Management:** Agile methods, project management (Notion, Jira, Asana)
-**Communication:** Translating technical findings for diverse audiences, both in Spanish and English
 
 ### 📚 Currently Learning
 
