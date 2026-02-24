@@ -2,7 +2,7 @@
 
 I'm a Mexican data analyst who believes technology should serve everyone, not just a few. Over the past six years, I've worked at the intersection of data, policy, and social impact.
 
-👩🏽‍💻 I recently completed the Master's in Data Science for Public Policy at the Hertie School in Berlin, where I specialized in Digital Governance. My thesis was on estimating the energy consumption and environmental impact of data centers in Europe (you can find more [here](https://github.com/Monlo/thesis-dc-emissions)). During my studies, I worked as a research assistant in the Digital Economy and Internet Policy group at the Weizenbaum Institute. 
+👩🏽‍💻 I recently completed the Master's in Data Science for Public Policy at the Hertie School in Berlin, where I specialized in Digital Governance. My thesis was on estimating the energy consumption and environmental impact of data centers in Europe (you can find more [here](https://github.com/Monlo/thesis-dc-emissions)). During my studies, I worked as a research assistant in the Digital Economy and Internet Policy group at the Weizenbaum Institute, where I contributed to research projects on AI alignment and digital infrastructure. 
 
 I'm currently working as a data and policy consultant, developing data-driven research reports and analyses. I'm also seeking full-time opportunities at the intersection of data, policy, and decision-making.
 
