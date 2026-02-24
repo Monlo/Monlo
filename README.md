@@ -10,7 +10,7 @@ I'm currently working as a data and policy consultant, developing data-driven re
 
 ### 🛠️ Skills
 
-**Programming:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R (tidyverse, ggplot2), SQL
+**Programming:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R (tidyverse, ggplot2), SQL                            
 **Data Analysis:** Cleaning, visualization, storytelling with data, reproducible research workflows  
 **Policy Research:** Quantitative and qualitative analysis, indicator design, data-driven policy evaluation  
 **Project Management:** Agile methods, project management (Notion, Jira, Asana)
