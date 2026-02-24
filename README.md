@@ -10,13 +10,13 @@ I'm currently working as a data and policy consultant, developing data-driven re
 
 ### 🛠️ Skills
 
-**Programming:** Python (pandas, matplotlib, geopandas), R (tidyverse, ggplot2), SQL  
+**Programming:** Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R (tidyverse, ggplot2), SQL
 **Data Analysis:** Cleaning, visualization, storytelling with data, reproducible research workflows  
 **Policy Research:** Quantitative and qualitative analysis, indicator design, data-driven policy evaluation  
 **Project Management:** Agile methods, project management (Notion, Jira, Asana)
 
 ### 📚 Currently Learning
 
-German (A2), SQL (advanced queries), Tableau, and business analysis frameworks
+German (A2), Agentic Workflows (Claude), D3.js, Next.js, React, TypeScript, Docker
 
 🌐 [Portfolio](https://monlo.github.io/mlp-portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/monserratlopezperez)
